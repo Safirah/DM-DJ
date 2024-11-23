@@ -1,0 +1,190 @@
+{
+    "weather": [
+        {
+            "name": "Rain",
+            "videoId": "hzJTZgGtAVU",
+            "image": "https://live.staticflickr.com/3222/2334488983_24e01bd603_b.jpg"
+        },
+        {
+            "name": "Thunderstorm",
+            "videoId": "w7_7pz5-Jk0",
+            "image": "https://live.staticflickr.com/65535/48569755442_77cce7bd6f_b.jpg"
+        }
+    ],
+    "ambience": [
+        {
+            "name": "Dungeon",
+            "videoId": "eklS7Vwzdp8",
+            "image": "https://live.staticflickr.com/4049/4705331511_5ea957c3b1_b.jpg"
+        },
+        {
+            "name": "Tavern",
+            "videoId": "rv3Nl-Od9YU",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tavern_Scene-1658-David_Teniers_II.jpg/800px-Tavern_Scene-1658-David_Teniers_II.jpg?20050917043607"
+        },
+        {
+            "name": "Cathedral",
+            "videoId": "vA79jI9cCBE",
+            "image": "https://live.staticflickr.com/978/27319922577_031110c007_b.jpg"
+        },
+        {
+            "name": "Manor",
+            "videoId": "q9yaKpYS9qc",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Oxley_Manor%2C_from%2C_A_series_of_picturesque_views_of_seats_of_the_noblemen_and_gentlemen_of_Great_Britain_and_Ireland_%281840%29.jpg/800px-Oxley_Manor%2C_from%2C_A_series_of_picturesque_views_of_seats_of_the_noblemen_and_gentlemen_of_Great_Britain_and_Ireland_%281840%29.jpg?20151002145441"
+        },
+        {
+            "name": "Forest (Day)",
+            "videoId": "F8bYaMoQ2sM",
+            "image": "https://live.staticflickr.com/1281/1401605646_8a994cbb1d_b.jpg"
+        },
+        {
+            "name": "Village",
+            "videoId": "q9yaKpYS9qc",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Village-Saint-Martin.JPG"
+        },
+        {
+            "name": "Ship",
+            "videoId": "uPAfgWAb6Qo",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nao_Victoria_%28ship%2C_1992%29%2C_S%C3%A8te_cf04.jpg/800px-Nao_Victoria_%28ship%2C_1992%29%2C_S%C3%A8te_cf04.jpg"
+        },
+        {
+            "name": "Swamp",
+            "videoId": "YT2D1-bDMq8",
+            "image": ""
+        },
+        {
+            "name": "Beach",
+            "videoId": "4djOiCdkLsg",
+            "image": ""
+        },
+        {
+            "name": "Forest (Night)",
+            "videoId": "NvBS6NWewxU",
+            "image": ""
+        },
+        {
+            "name": "Campfire",
+            "videoId": "-xX624xzJLs",
+            "image": ""
+        },
+        {
+            "name": "Cave",
+            "videoId": "OtfgXgclSxU",
+            "image": ""
+        }
+    ],
+    "music": [
+        {
+            "name": "Stealth Mission",
+            "videoId": "WW4bdFhcZgw",
+            "image": ""
+        },
+        {
+            "name": "Fight V",
+            "videoId": "tBI63CPbW9c",
+            "image": ""
+        },
+        {
+            "name": "Mysterious",
+            "videoId": "DYaDPj4uqJY",
+            "image": ""
+        },
+        {
+            "name": "Relaxed/Cozy",
+            "videoId": "kfyy0mxQshk",
+            "image": ""
+        },
+        {
+            "name": "Calm",
+            "videoId": "jyYnGLh5vL0",
+            "image": ""
+        },
+        {
+            "name": "Suspense",
+            "videoId": "EApZmmYg_oQ",
+            "image": ""
+        },
+        {
+            "name": "Sad",
+            "videoId": "mFsQpCjRyvY",
+            "image": ""
+        },
+        {
+            "name": "Rest",
+            "videoId": "7T3SU4Ht1Yw",
+            "image": ""
+        },
+        {
+            "name": "Investigating",
+            "videoId": "7wBzL62Va1k",
+            "image": ""
+        },
+        {
+            "name": "Evil: Suspense",
+            "videoId": "KU5EzBErrZ4",
+            "image": ""
+        },
+        {
+            "name": "Gala",
+            "videoId": "ulplqXTp4R0",
+            "image": ""
+        },
+        {
+            "name": "Mythical",
+            "videoId": "u_Egrjv-TYI",
+            "image": ""
+        },
+        {
+            "name": "Reunion",
+            "videoId": "33iGWNJg73U",
+            "image": ""
+        },
+        {
+            "name": "Romantic",
+            "videoId": "Q5LOZTMcHNI",
+            "image": ""
+        },
+        {
+            "name": "Holy",
+            "videoId": "PP1UTRiiQAA",
+            "image": ""
+        },
+        {
+            "name": "Travel by land",
+            "videoId": "cPI2CJbQ3g0",
+            "image": ""
+        },
+        {
+            "name": "Magical Land",
+            "videoId": "af710WjqzDE",
+            "image": ""
+        },
+        {
+            "name": "Fight I",
+            "videoId": "8Q7cioftmKs",
+            "image": ""
+        },
+        {
+            "name": "Fight II",
+            "videoId": "fwW6DGYEw88",
+            "image": ""
+        },
+        {
+            "name": "Fight III",
+            "videoId": "tRaFRip-KkI",
+            "image": ""
+        },
+        {
+            "name": "Fight IV",
+            "videoId": "K-i7KliDOmM",
+            "image": ""
+        }
+    ],
+    "effect": [
+        {
+            "name": "Roar",
+            "videoId": "D2RqYLJtbQw",
+            "image": ""
+        }
+    ]
+}

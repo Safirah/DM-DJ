@@ -1,0 +1,970 @@
+{
+	"undefined": {
+		"folderName": "Dungeon",
+		"folderColor": "#4c4c4c",
+		"id": 2,
+		"streams": [
+			{
+				"streamName": "Stealth Music",
+				"streamIcon": "🤫",
+				"streamVolume": 19.140000000000114,
+				"streamFade": true,
+				"streamFadeTime": 7,
+				"folderId": 2,
+				"id": 2039,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=WW4bdFhcZgw",
+						"volume": 44,
+						"id": 1953,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					},
+					{
+						"name": "Shh",
+						"link": "https://www.youtube.com/watch?v=XMVERmqlhx0",
+						"mute": false,
+						"volume": 51,
+						"id": 3576,
+						"loop": true,
+						"loop1": 45,
+						"loop2": 60,
+						"playing": false
+					},
+					{
+						"name": "Door Creak",
+						"link": "https://www.youtube.com/watch?v=rKLCEzF1XGo",
+						"mute": false,
+						"volume": 35,
+						"id": 6316,
+						"loop": true,
+						"loop1": 30,
+						"loop2": 60,
+						"playing": false
+					},
+					{
+						"name": "Chain",
+						"link": "https://www.youtube.com/watch?v=GSbT_Xt5fqI",
+						"mute": false,
+						"volume": 30,
+						"id": 8777,
+						"loop": true,
+						"loop1": 30,
+						"loop2": 45,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Combat Music",
+				"streamIcon": "⚔️",
+				"streamVolume": 43,
+				"streamFade": true,
+				"streamFadeTime": 5,
+				"folderId": 2,
+				"id": 7717,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Boss Music",
+						"link": "https://www.youtube.com/watch?v=tBI63CPbW9c",
+						"volume": 100,
+						"id": 9436,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					}
+				],
+				"interval": 0
+			},
+			{
+				"streamName": "Monster Roar",
+				"streamIcon": "🦖",
+				"streamVolume": 95,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"folderId": 2,
+				"id": 6125,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Roar",
+						"link": "https://www.youtube.com/watch?v=D2RqYLJtbQw",
+						"volume": 62,
+						"id": 4783,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				],
+				"interval": 0
+			},
+			{
+				"streamName": "BG Music",
+				"streamIcon": "🔊",
+				"streamVolume": 14,
+				"streamFade": true,
+				"streamFadeTime": 5,
+				"folderId": 2,
+				"id": 3181,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Dungeon",
+						"link": "https://www.youtube.com/watch?v=eklS7Vwzdp8",
+						"volume": 100,
+						"id": 1570,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					}
+				],
+				"interval": 0
+			}
+		]
+	},
+	"1716492829124": {
+		"folderName": "Ambience",
+		"folderColor": "#000000",
+		"id": 1716492829124,
+		"streams": [
+			{
+				"streamName": "Tavern",
+				"streamIcon": "🍻",
+				"streamVolume": 28,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 9016,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://youtu.be/rv3Nl-Od9YU",
+						"mute": false,
+						"volume": 100,
+						"id": 9000,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				],
+				"streamMute": false
+			},
+			{
+				"streamName": "Cathedral",
+				"streamIcon": "⛪",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 7873,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/vA79jI9cCBE",
+						"volume": 100,
+						"id": 4825,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Manor",
+				"streamIcon": "🏠",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 2575,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/cvvDk0T3H84",
+						"volume": 100,
+						"id": 5407,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Small Town",
+				"streamIcon": "🏨",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 7272,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/q9yaKpYS9qc",
+						"volume": 100,
+						"id": 4802,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Forest (Day)",
+				"streamIcon": "⛺",
+				"streamVolume": 42,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 8688,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://www.youtube.com/watch?v=F8bYaMoQ2sM",
+						"volume": 100,
+						"id": 7816,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					},
+					{
+						"name": "",
+						"link": "",
+						"mute": false,
+						"volume": 100,
+						"id": 1169,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Ship",
+				"streamIcon": "🚢",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 9537,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://www.youtube.com/watch?v=uPAfgWAb6Qo",
+						"mute": false,
+						"volume": 100,
+						"id": 8260,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Swamp",
+				"streamIcon": "🟢",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 39,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://www.youtube.com/watch?v=YT2D1-bDMq8",
+						"volume": 100,
+						"id": 8381,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Beach",
+				"streamIcon": "🏖️",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 5551,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://youtu.be/4djOiCdkLsg",
+						"volume": 100,
+						"id": 489,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Forest (Night)",
+				"streamIcon": "🌙",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 1448,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://www.youtube.com/watch?v=NvBS6NWewxU",
+						"volume": 100,
+						"id": 5861,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Campfire",
+				"streamIcon": "🔥",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 2215,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://youtu.be/-xX624xzJLs",
+						"volume": 66,
+						"id": 9411,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Cave",
+				"streamIcon": "🕳️",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 1402,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://www.youtube.com/watch?v=OtfgXgclSxU",
+						"volume": 40,
+						"id": 5394,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Rain",
+				"streamIcon": "🌧️",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 6641,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://www.youtube.com/watch?v=hzJTZgGtAVU",
+						"volume": 100,
+						"id": 8641,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Thunderstorm",
+				"streamIcon": "⚡",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 2767,
+				"folderId": 1716492829124,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambience",
+						"link": "https://www.youtube.com/watch?v=w7_7pz5-Jk0",
+						"volume": 100,
+						"id": 2201,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			}
+		]
+	},
+	"1716497634183": {
+		"folderName": "Vibes",
+		"folderColor": "#000000",
+		"id": 1716497634183,
+		"streams": [
+			{
+				"streamName": "Mysterious",
+				"streamIcon": "💭",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 541,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/DYaDPj4uqJY",
+						"volume": 100,
+						"id": 664,
+						"mute": false,
+						"loop": true,
+						"loop1": 0,
+						"loop2": 0,
+						"playing": false
+					}
+				],
+				"streamMute": false
+			},
+			{
+				"streamName": "Relaxed/Cozy",
+				"streamIcon": "🥰",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 9862,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=kfyy0mxQshk",
+						"volume": 100,
+						"id": 1009,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Calm",
+				"streamIcon": "😌",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 3712,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/jyYnGLh5vL0",
+						"volume": 100,
+						"id": 4583,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Suspense",
+				"streamIcon": "💬",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 4572,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=EApZmmYg_oQ",
+						"volume": 100,
+						"id": 5041,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Sad",
+				"streamIcon": "😢",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 2673,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=mFsQpCjRyvY",
+						"volume": 100,
+						"id": 6387,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Rest",
+				"streamIcon": "💤",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 6877,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=7T3SU4Ht1Yw",
+						"volume": 100,
+						"id": 2846,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Investigating",
+				"streamIcon": "👀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 1302,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=7wBzL62Va1k",
+						"volume": 100,
+						"id": 7962,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Evil: Suspense",
+				"streamIcon": "😈",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 9564,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=KU5EzBErrZ4",
+						"volume": 100,
+						"id": 8903,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Gala",
+				"streamIcon": "🎭",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 4414,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=ulplqXTp4R0",
+						"volume": 100,
+						"id": 4948,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Mythical",
+				"streamIcon": "🧿",
+				"streamVolume": 50,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 3216,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/u_Egrjv-TYI",
+						"volume": 100,
+						"id": 4827,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Happy",
+				"streamIcon": "😊",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 4428,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=33iGWNJg73U",
+						"volume": 100,
+						"id": 8146,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Romantic",
+				"streamIcon": "😍",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 2840,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=Q5LOZTMcHNI",
+						"volume": 100,
+						"id": 2834,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Holy",
+				"streamIcon": "👼",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 95,
+				"folderId": 1716497634183,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/PP1UTRiiQAA",
+						"volume": 100,
+						"id": 1879,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			}
+		]
+	},
+	"1716497937689": {
+		"folderName": "Travel",
+		"folderColor": "#000000",
+		"id": 1716497937689,
+		"streams": [
+			{
+				"streamName": "Land",
+				"streamIcon": "🏞️",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 3115,
+				"folderId": 1716497937689,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/cPI2CJbQ3g0",
+						"volume": 100,
+						"id": 3465,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Magical",
+				"streamIcon": "⭐",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 344,
+				"folderId": 1716497937689,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/af710WjqzDE",
+						"volume": 100,
+						"id": 9069,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Generic",
+				"streamIcon": "😶",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 3568,
+				"folderId": 1716497937689,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "",
+						"volume": 100,
+						"id": 925,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			}
+		]
+	},
+	"1716500300342": {
+		"folderName": "Combat",
+		"folderColor": "#000000",
+		"id": 1716500300342,
+		"streams": [
+			{
+				"streamName": "Fight I",
+				"streamIcon": "🔪",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 688,
+				"folderId": 1716500300342,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://youtu.be/8Q7cioftmKs",
+						"volume": 100,
+						"id": 2419,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Fight II",
+				"streamIcon": "💪",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 5560,
+				"folderId": 1716500300342,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=fwW6DGYEw88",
+						"volume": 100,
+						"id": 7877,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Fight III",
+				"streamIcon": "🗡️",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 6402,
+				"folderId": 1716500300342,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=tRaFRip-KkI",
+						"volume": 100,
+						"id": 5234,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Fight IV",
+				"streamIcon": "⚔️",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 5411,
+				"folderId": 1716500300342,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Music",
+						"link": "https://www.youtube.com/watch?v=K-i7KliDOmM",
+						"volume": 100,
+						"id": 7691,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			}
+		]
+	}
+}
