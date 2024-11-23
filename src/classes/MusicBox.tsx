@@ -59,6 +59,10 @@ export function MusicBox(props: { items: MusicItem[] }) {
         const videoState = videoPlayer.getPlayerState();
         setIsPlaying(videoState == 1);
         if (videoState == 0) {
+<<<<<<< HEAD
+=======
+            alert("here")
+>>>>>>> 9f2542e (Base project)
             videoPlayer.seekTo(0, false);
             if (loop) {
                 videoPlayer.playVideo();
