@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DM-DJ/static/css/main.73d645ab.css",
+    "main.js": "/DM-DJ/static/js/main.c391564b.js",
+    "static/js/453.fac09008.chunk.js": "/DM-DJ/static/js/453.fac09008.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/DM-DJ/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/DM-DJ/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/DM-DJ/index.html",
+    "main.73d645ab.css.map": "/DM-DJ/static/css/main.73d645ab.css.map",
+    "main.c391564b.js.map": "/DM-DJ/static/js/main.c391564b.js.map",
+    "453.fac09008.chunk.js.map": "/DM-DJ/static/js/453.fac09008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d645ab.css",
+    "static/js/main.c391564b.js"
+  ]
+}
